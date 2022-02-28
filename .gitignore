@@ -1,0 +1,4 @@
+*.json
+*tempCodeRunnerFile.cpp
+*.exe
+/.vscode
